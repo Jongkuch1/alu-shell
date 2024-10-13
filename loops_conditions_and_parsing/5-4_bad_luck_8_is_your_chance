@@ -15,4 +15,4 @@ while [ "$i" -lt 11 ]; do
   fi
 
   ((i++))
-done:
+done
